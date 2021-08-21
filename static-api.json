@@ -1,0 +1,10 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "date": "1-20-05",
+      "title": "My first blog post",
+      "content": "Welcome to my blog"
+    }
+  ]
+}
